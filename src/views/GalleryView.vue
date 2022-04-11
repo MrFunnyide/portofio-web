@@ -1,5 +1,5 @@
 <template>
-  <div style="background-color: #383838; min-height: 900px">
+  <div style="background-color: #383838; min-height: 650px">
     <nav class="navbar navbar-expand-lg navbar-dark shadow-sm" style="background-color: #383838 ">
       <div class="container">
         <div class="collapse navbar-collapse" id="navbarNav">
